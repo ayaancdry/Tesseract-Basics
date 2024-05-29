@@ -62,6 +62,9 @@ The final OCR subsection examines two types of images:
 - The entire notebook was developed while following the playlist: [Python in Digital Humanities](https://youtube.com/playlist?list=PL2VXyKi-KpYuTAZz__9KVl1jQz74bDG7i&si=aPKzrbkQtgiDwuYu)
 - GitHub repository for the tutorial: [OCR Python Textbook](https://github.com/wjbmattingly/ocr_python_textbook)
 
+## <ins>Note<ins>
+The paths used in the file are *Absolute* Paths. You may need to change each path to *Relative* Path. To do this, replace the <ins>/Users/ayaanchoudhury/Desktop/Python Coding/Tesseract<ins> in each path to <ins>/images<ins>
+
 ## Images
 All images used or generated through pre-processing techniques and OCR are uploaded in this folder.
 <br>
